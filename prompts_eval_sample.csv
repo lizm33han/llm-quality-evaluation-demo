@@ -1,0 +1,4 @@
+Prompt,LLM Response,Expected Response,Accuracy (1-5),Clarity (1-5),Tone (1-5),Overall Notes
+Explain photosynthesis to a 5th grader,Photosynthesis is a process in which plants use sunlight to make their own food from carbon dioxide and water.,"Correct, but not simplified for 5th grade.",5,3,4,Needs simpler language and examples.
+Create a positive classroom rule about respect,Respect means being kind and listening to others in class.,"Respect means being kind, listening, and treating others fairly.",4,5,5,"Excellent tone, slightly incomplete."
+Suggest 3 formative assessment ideas for math,"Exit tickets, group discussions, and weekly tests.","Exit tickets, quick checks, and peer feedback activities.",4,4,5,Replace “weekly tests” with lower-stakes options.
